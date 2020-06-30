@@ -1,6 +1,6 @@
 # Machine Learning | Coursera
 
-The repository contains finished programming assignments of Machine Learning by Andrew Ng on Coursera.
+[中文版本](https://github.com/BevisChou/Machine-Learning-by-Andrew-Ng-on-Coursera/blob/master/README-ZH.md)
 
 ## Table of Contents
 
